@@ -6,7 +6,7 @@ conda create --name <name_of_env> python=3.10
 
 conda activate <name_of_env>
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 # To run the web app: 
 

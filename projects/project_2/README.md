@@ -1,3 +1,5 @@
+# Student Placement Prediction
+
 # Steps to be followed:
 
 # Create a new environment:
@@ -8,7 +10,7 @@ conda activate <name_of_env>
 
 pip install -r requirements.txt
 
-# To run the web app: 
+# Command to run the web app: 
 
 streamlit run web_app.py
 

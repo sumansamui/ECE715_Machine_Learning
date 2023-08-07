@@ -4,6 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 imblearn
-pickle
 streamlit
 ipykernel 
+keras
+tensorflow
